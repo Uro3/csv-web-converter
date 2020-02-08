@@ -1,8 +1,9 @@
 <script>
-	import ConvertTex from './ConvertTex.svelte';
+	import ConvertTex from './components/ConvertTex.svelte';
 </script>
 
 <main>
+	<h1>CSV to Latax Table</h1>
 	<ConvertTex />
 </main>
 
